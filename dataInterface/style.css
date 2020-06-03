@@ -1,0 +1,44 @@
+.card-container > .ant-tabs-card > .ant-tabs-content {
+  height: 120px;
+  margin-top: -16px;
+}
+
+.card-container > .ant-tabs-card > .ant-tabs-content > .ant-tabs-tabpane {
+  background: #fff;
+  padding: 16px;
+}
+
+.card-container > .ant-tabs-card > .ant-tabs-bar {
+  border-color: #fff;
+  /* border-bottom: 1px solid rgb(196, 189, 189); */
+}
+
+.card-container > .ant-tabs-card > .ant-tabs-bar .ant-tabs-tab {
+  border-color: transparent;
+  background: transparent;
+}
+
+/* .card-container > .ant-tabs.ant-tabs-card  .ant-tabs-bar .ant-tabs-tab-active {
+  border-color: #fff;
+  background: #1890FF;
+  color: black;
+} */
+/* .ant-tabs.ant-tabs-card .ant-tabs-card-bar .ant-tabs-tab-active {
+  height: 40px;
+  color: #fff;
+  background: #1890ff;
+  border-color: #e8e8e8;
+  border-bottom: 1px solid #fff;
+} */
+.card-container > .ant-tabs > .ant-tabs-bar .ant-tabs-tab-active {
+  border-color: #fff;
+  background: #1890FF;
+  color: black;
+}
+
+/* pre {padding: 5px; margin: 5px; } */
+pre .string { color: #3ab54a; font-weight: bold; margin-bottom: '5px';}
+pre  .number { color: #25aae2; font-weight: bold; margin-bottom: '5px';}
+pre  .boolean { color: #f98280; font-weight: bold; margin-bottom: '5px';}
+pre  .null { color: magenta; font-weight: bold; margin-bottom: '5px';}
+pre  .key { color: #92278f;font-weight: bold; margin-bottom: '5px';}
